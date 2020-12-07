@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aplikasi Pengingat</string>
+    <string name="hint_word">Ingatkan untuk...</string>
+    <string name="button_save">Simpan</string>
+    <string name="empty_not_saved">Kata tidak dapat disimpan karena kosong.</string>
+    <string name="Hapus">Seluruh Data Telah Dihapus</string>
+</resources>
